@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clkmethod(View view) {
-        Toast.makeText(this,"Hai sreenu",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Hai Srinivasa Reddi",Toast.LENGTH_LONG).show();
     }
 }
